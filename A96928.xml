@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvord to the true blew Protestants, or, those of the thorough reformation</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96928</idno>
+            <idno type="STC">Wing W3573</idno>
+            <idno type="STC">ESTC R230917</idno>
+            <idno type="EEBO-CITATION">99896076</idno>
+            <idno type="PROQUEST">99896076</idno>
+            <idno type="VID">153773</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96928)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153773)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2378:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvord to the true blew Protestants, or, those of the thorough reformation</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by N[athaniel]. T[hompson]. at the entrance into the Old-Spring-Garden,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and printer's name from Wing CD-ROM, 1996.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestantism --  Early works to 1800.</term>
+               <term>Religion and politics --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153773:1" rendition="simple:additions"/>
+            <head>A WORD TO THE <hi>True Blew Proteſtants,</hi> OR, Thoſe of the Thorough REFORMATION.</head>
+            <opener>
+               <salute>Countreymen,</salute>
+            </opener>
+            <p>I Wiſh I could call you <hi>Friends</hi> too, you who call your ſelves <hi>True Proteſtants;</hi> the beſt Reformed, the true Sons of the Church of <hi>England,</hi> the only illuminated, and knowing in the Sacred and Divine Laws; I have long doubted within my ſelf whether you have (maugre all your boaſtings and vain pretences,) either Conſcience of Reli<g ref="char:EOLhyphen"/>gion: But now you have ſatisfy'd my Doubts, and you have confirmed it to Me, and all the World, you have not a grain, or ſpark of either. Nay, you have given Demon<g ref="char:EOLhyphen"/>ſtration that you have renounced Heaven, and are be<g ref="char:EOLhyphen"/>come Strangers to the living God, that you have loſt your Humane Nature, and are Metomorphoſed into the worſt of Animals. O Horours! Who ever could have believ'd it, that ſuch Villanies could poſſibly be acted in any place but Hell? or that it were poſſible for any thing leſs than Devil, to Think, Deſign, and Perpetrate ſuch Bloody Villanies.</p>
+            <p>O Unhappy <hi>England!</hi> What haſt thou done to brood ſuch Vipers in thy Boſom, which gnaw thy Bowels, ſuck thy blood, and make their way to wanton Luſt and Liberty, through thy very Heart? Was it not enough to have barbarouſly Mur<g ref="char:EOLhyphen"/>dered the Father, but you muſt drink the Blood, the Sacred Blood of His Royal Sons? 'Tis now Ten years and upwards you do confeſs you have thirſted for it; and now at laſt you had decreed (had not Heaven by Miracle prevented it) with your poyſon'd <hi>Ponyards</hi> to have broached thoſe Sacred Veſſels, which are Sealed with the Hand of the Almighty: which makes it Sacriledge even to entertain a Thought of hurting Them; But you like <hi>Canibals</hi> were reſolv'd to devour Them; and with your <hi>Blunderbuſſes</hi> Tear them in pieces. Is this your <hi>Religion?</hi> Is this your bleſſed <hi>Thorough Reformation?</hi> To ſubvert Governments by bloody Maſſacres, and Murde<g ref="char:EOLhyphen"/>ring Princes? and through an Ocean of Innocent Blood, to
+<pb n="2" facs="tcp:153773:2"/>ſwim in the Iſlands of <hi>Arnarchy,</hi> and a damn'd <hi>Commonwealh?</hi> Where, once more you ſhould become <hi>Brewers Slaves,</hi> or mad with Envy, and fond Ambition, you would eat up one ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>Was it for This your Godly Houſe of <hi>Commons</hi> Voted a Pardon to any Villain who ſhould Murder the King? Was it for This, they would have him Disband his Army; Give away the <hi>Militia</hi> into their Hands; Call over His Ar<g ref="char:EOLhyphen"/>my from beyond the Seas; and ſtrip Himſelf of all his beſt Friends? Was it for This, His Royal Brother, Queen, and all the Loyal Party muſt be Baniſhed as a pack of Raskals, and bloody Traytors? Yes, for this it was: And to give you a fair opoprtunity of perpetrating the blackeſt, and horrid'ſt <hi>Con<g ref="char:EOLhyphen"/>ſpiracy</hi> that ever yet was thought on; For This it was you were ſo buiſy in ſtripping your Royal Maſter of all His Imperial Prerogatives. For This it was you denyed Him both Money, and Friends. For This it was a Sham <hi>Popiſh Plot</hi> was (by the Inſtinct of the Devil) malitiouſly by you invented, to amuſe the people, and ſtir them up to Rebellion; whilſt all the Engines of Hell were at work really to act all thoſe Helliſh Treaſons, which were by you charged upon the <hi>Papiſts.</hi> It was for This that Hell was ranſak'd, and the damnedſt wret<g ref="char:EOLhyphen"/>ches hurried thence, and by you hired to work the Deſtruction of the Innocent.</p>
+            <p>O horrid Villains! What have you to ſay for your ſelves? Does your Religion teach you this? Is This the way of <hi>Refor<g ref="char:EOLhyphen"/>ming Church</hi> and <hi>State?</hi> Are Theſe the Fruits of your <hi>Thorough Reformation?</hi> Are Theſe Monſters the beſt Productions of your Sanctify'd Tribe, the <hi>True Blew Proteſtants?</hi> Villains! Had you no other Name to aſſume to your ſelves, than that of <hi>Proteſtant?</hi> Why, by theſe your Black and Helliſh procee<g ref="char:EOLhyphen"/>dings you have blaſted the very Name of <hi>Proteſtant,</hi> and every honeſt man will be aſhamed to own it. Why rather did you not call your ſelves <hi>Papiſts?</hi> and as ſuch, with your laſt breath declare your ſelves? then had you bravely managed your buſineſs; you had left an Eternal Infamy on their Name and Religion, which you ſo much hate, and abominate; and you had confirmed the World, that the ſame men who contri<g ref="char:EOLhyphen"/>ved and carried on the firſt <hi>Plot,</hi> are the great ſupporters, and managers of this <hi>Helliſh Conſpiracy.</hi> But to call your ſelves <hi>Proteſtants;</hi> Hell! Why rather did you not tell the World you were <hi>Turks, Infidels, Barbarians, Athieſts?</hi> For ſuch you
+<pb n="3" facs="tcp:153773:2" rendition="simple:additions"/>are, or worſe. <hi>Proteſtants</hi> you are not, We diſown you; un<g ref="char:EOLhyphen"/>leſs you will make the Name of <hi>Proteſtant</hi> ſuch a general term, as that it ſhall include all theſe I have named, becauſe they all equally proteſt againſt the Church of <hi>Rome.</hi>
+            </p>
+            <p>I tell you what; you <hi>True Blew Proteſtants!</hi> you <hi>Thorough Reformers</hi> of the Church; you have made your Religion (had you any) to ſtink above ground. For this bloody Deſign was not contrived, and carried on by a few deſperate Villains, as was the <hi>Powder-Plot;</hi> No, here's a Damn'd <hi>Conſpirary</hi> laid, barbarouſly to Murder your King, and His Royal Brother; and then charge it upon the Innocent, upon the Loyaliſts; and They, and their beſt Friends are to attone for your Villanies, Treaſons, and Murders; They muſt (as Guilty) be made one Sacrafice to your unnatural Revenge. Now, all this I ſay was not only to have been acted by ſome few profligated Wret<g ref="char:EOLhyphen"/>ches, who were Strangers both to Conſcience, and Religion; but by the Unanimous conſent of all the conſiderable <hi>Diſſenting Party</hi> of three Kingdoms. By theſe very Men who had no<g ref="char:EOLhyphen"/>thing but Lord, Lord, in their Mouths, when nothing but the Devil, and Revenge was in their Hearts.</p>
+            <p>Speak, What Anſwer will you make to what you are char<g ref="char:EOLhyphen"/>ged with? I fear you have not ſo much Grace left you as to make you bluſh when you ſee your Villainous Deſigns de<g ref="char:EOLhyphen"/>tected: but rather that you grieve they have not ſucceeded according as You, and Hell had conſpired. But come, for once be ingenious, at leaſt when you come to the Gallows, con<g ref="char:EOLhyphen"/>feſs the Truth, and according to your wonted practices, glory in your Diabolical Machinations, ſay with your <hi>Scottiſh</hi> Bre<g ref="char:EOLhyphen"/>thren, (thoſe Rebels who were executed in <hi>Scotland</hi> for Trea<g ref="char:EOLhyphen"/>ſon, Murder, and Rebellion;) that you hate Monarchs, and Monarchy, refuſe to pray for the King, and Royal Family; and tell the World, that it is the greateſt Trophy of your Re<g ref="char:EOLhyphen"/>ligion, to overthrow and deſtroy both Monarchs, and their Thrones. Imitate that great <hi>Hero</hi> of yours the grand Traytor <hi>Ruſſel,</hi> Pray all of you, (after you have owned your own Guilt, confeſſed the Treaſon,) that no more of the Kings Enemies may die. Give advice to the Sanctified Tribe you leave behind you, how better to manage the next <hi>Conſpiracy;</hi> and go forth of this life, praying that the Innocent may be perſecuted ſtill; as thoſe Traytors who have gone before you to <hi>Tyburne</hi> to make ſome little attonement for their Helliſh Treaſon have done. Now what can we expect would be the effect of ſuch
+<pb n="4" facs="tcp:153773:3" rendition="simple:additions"/>Prayers as theſe? But that a Divine Vengeance may fall upon this Kingdom.</p>
+            <p>Horrour, and Confuſion ever attend you, and your Helliſh purpoſes. Is this the Fruits, the Effects of your Zealous Cant and Whining, to prey upon the innocent, and ſuck the Blood of your Natural Sovereign? is this your acting accor<g ref="char:EOLhyphen"/>ding to Law? why then let us fly into the Deſarts, where nothing but <hi>Monſters</hi> and <hi>Savages</hi> inhabit, for here we are not ſafe. Nay, Im confident, the <hi>Tygers, Bears,</hi> and <hi>Vultures,</hi> will be more gentile, kind, and tender-hearted towards us than you would be, were we once within your Claws. <hi>Monſters!</hi> boaſt no more of Religion; Nay do not ſo much as name it, leaſt you prophane that Sacred Name with your unſanctify'd Lips, for 'tis as clear as Demonſtration, you have none at all; But if you do impudently pretend to any, ſhew but any man of Reaſon your Works; (for by theſe you are to be known) and he ſhall tell you that <hi>Belzebub</hi> is the only God you ſerve; your Prophets are no other than thoſe of <hi>Baal;</hi> and your Teachers the Imps of the Devil; who have with their ignorance, and Rebellious Principles hurried you into Confuſion, and brought you to the very gates of Hell. It was a fine Spectacle, was it not, which we beheld the other day? an unfortunate young Gentleman in the prime of his age, uſher'd up to the Scaffold by one of thefe <hi>Wolves</hi> in <hi>Sheeps</hi> cloathing, where he behaved himſelf as if he had had no other buſineſs than to make his Con<g ref="char:EOLhyphen"/>gees with a Boon Grace, to put his Wigg, and Crevat-ſtring in order; to have ſeen his geſtures, you would have ſworn he had been going to a Ball; or to Court a Miſtreſs, rather than to appear before that All-ſeeing Eye of Heaven; that great All-knowing Judge, and ſearcher of the Secrets of Hearts, there to give a juſt account of all the Actions of his life. And then with his laſt Breath to proclaim his Innocency after the horrid guilt was manifeſtly proved againſt him, and with his own Tongue had confeſſed the Fact. But theſe are the Fruits of ſuch Godly Educations. Now if any thing but the Devil would be Educated by ſuch Doctors as theſe, or profeſs himſelf a Member of ſuch a Diabolical Sect as theſe <hi>True Blew Proteſtants</hi> are; he deſerves to be beg'd for a Fool, or hang'd for a Villain.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>N. T.</hi> at the Entrance into the <hi>Old-Spring-Garden,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
